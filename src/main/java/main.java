@@ -5,7 +5,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/**
+/*
  *
  * @author giova
  */
@@ -14,7 +14,7 @@ import javax.swing.JTextArea;
 
 public class main {
 
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         Login l = new Login();
         JTextArea j = new JTextArea();
         l.setLocationRelativeTo(null); // abre a interface no meio da tela
@@ -24,5 +24,5 @@ public class main {
         j.setLineWrap(true);//pesquisei e achei esse comando para alinhar texto
 
     }
-//euodeionetbeans
+//euodeionetbeansapenas
 }

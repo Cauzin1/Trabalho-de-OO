@@ -14,7 +14,7 @@ import javax.swing.JTextArea;
 
 public class main {
 
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         Login l = new Login();
         JTextArea j = new JTextArea();
         l.setLocationRelativeTo(null); // abre a interface no meio da tela

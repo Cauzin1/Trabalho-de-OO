@@ -24,5 +24,5 @@ public class main {
         j.setLineWrap(true);//pesquisei e achei esse comando para alinhar texto
 
     }
-//Mecvane voce é podre!!
+//Mecvane voce é podre!
 }

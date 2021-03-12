@@ -24,5 +24,5 @@ public class main {
         j.setLineWrap(true);//pesquisei e achei esse comando para alinhar texto
 
     }
-//euodeionetbeansapenas
+//euodeionetbeansapenas odio dessa ide
 }
